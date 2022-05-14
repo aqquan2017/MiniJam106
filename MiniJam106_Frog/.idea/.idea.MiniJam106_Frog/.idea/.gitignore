@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.MiniJam106_Frog.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\OneDrive\Unity\MiniJam106_Frog\MiniJam106_Frog\.idea\.idea.MiniJam106_Frog\.idea/dataSources/
+/dataSources.local.xml
